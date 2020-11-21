@@ -4,6 +4,7 @@ Some physics and chemistry code using Vpython and python.
 CHEMISTRY:
 
 Two python scripts I wrote for chem class to help with nomenclature. One will help you go from a chemical formula to its name, another the opposite.
+(These were written early in my coding career - ha! It's mostly if/else and print statements, but still pretty helpful.
 
 PHYSICS:
 
